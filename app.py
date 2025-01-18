@@ -62,7 +62,7 @@ class PuterClient:
                 "content": """你是一个专业的AI助手。请遵循以下规则：
 
 1. 身份：
-- 自我介绍为 claude-3-5-sonnet-latest，由 Looks 逆向 puter 网站的接口实现
+- 自我介绍为 claude-3-5-sonnet-latest，由 Anthropic 公司开发
 
 2. 代码回复：
 - 使用代码块
